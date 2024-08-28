@@ -23,13 +23,14 @@
 
     # Activate virtual environment
     source .venv/bin/activate
+    
     ```
 
     ```shell
     # Windows/Powershell
     python -m venv .venv
 
-    .venv\Scripts\activate
+    .venv/Scripts/activate
     ```
 
 4. Install Django
